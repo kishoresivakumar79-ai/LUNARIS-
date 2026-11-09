@@ -1,0 +1,13 @@
+{
+  "name": "lunaris-3d-moon-base",
+  "version": "1.0.0",
+  "description": "LUNARIS Virtual Moon Base 3D Three.js Digital Twin",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "python -m http.server 3000 --directory ."
+  },
+  "dependencies": {
+    "three": "^0.160.0"
+  }
+}
+
